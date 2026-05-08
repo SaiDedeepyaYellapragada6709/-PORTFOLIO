@@ -39,11 +39,11 @@ Computer Science Engineering Portfolio Website
             <h2>About Me</h2>
             <div class="about-content">
                 <p>
-                    I'm a passionate Computer Science Engineer dedicated to solving complex problems through software development. 
-                    With a strong foundation in programming, data structures, and algorithms, I love creating efficient and scalable solutions.
+                    I'm a passionate Computer Science Engineer Lover dedicated to solving complex problems through software development. 
+                    With a strong foundation in programming, data structures, and algorithms, I love creating efficient and scalable solutions. Currently I've used GitHub to make my porfile and i'm hoping to further on work with it.
                 </p>
                 <p>
-                    I'm continuously learning and exploring emerging technologies to stay ahead in the ever-evolving tech landscape.
+                    I'm continuously learning and exploring emerging technologies to stay ahead in the ever-evolving tech landscape. My board of education from grade 1 to grade 10 is from CBSE Central Board of Secondary Eduction in Hyderabad with only 76% in my Board examinations in grade 10. I did my two years of Intermediate in Narayana Junior College Hyderabad and scored up to 97% overall from both the years together. I'm willing to get into a great university in Abroad for my Bachelors degree in CS and also do my Masters.
                 </p>
             </div>
         </div>
@@ -136,7 +136,7 @@ Computer Science Engineering Portfolio Website
             <h2>Get In Touch</h2>
             <p>Feel free to reach out to me for collaborations or just a friendly hello!</p>
             <div class="contact-links">
-                <a href="mailto:your.email@example.com" class="contact-link">Email Me</a>
+                <a href="mailto:yellapragada.dedeepya73@gmail.com" class="contact-link">Email Me</a>
                 <a href="https://github.com/SaiDedeepyaYellapragada6709" class="contact-link" target="_blank">GitHub</a>
                 <a href="https://linkedin.com/in/yourprofile" class="contact-link" target="_blank">LinkedIn</a>
                 <a href="https://twitter.com/yourprofile" class="contact-link" target="_blank">Twitter</a>
